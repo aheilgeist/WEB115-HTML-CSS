@@ -1,0 +1,1 @@
+<p style="text-align:center">This is my footer. Great place for links.</p>
